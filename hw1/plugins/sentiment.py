@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from rtmbot.core import Plugin
 from google.cloud import language
 
